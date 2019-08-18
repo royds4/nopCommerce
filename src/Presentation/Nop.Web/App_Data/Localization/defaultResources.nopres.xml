@@ -6627,6 +6627,12 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnForgotPasswordPage.Hint">
     <Value>Check to show CAPTCHA on forgot password page when restore password.</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnForum">
+    <Value>Show on forum</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnForum.Hint">
+    <Value>Check to show CAPTCHA on forum, when editing and creating a topic or post.</Value>
+  </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ConvertNonWesternChars">
     <Value>Convert non-western chars</Value>
   </LocaleResource>
@@ -12011,6 +12017,18 @@
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.BackToOrder">
     <Value>back to order details</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Shipments.CanDeliver">
+    <Value>Delivered</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Shipments.CanDeliver.Hint">
+    <Value>Check to apply current date to delivery.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Shipments.CanShip">
+    <Value>Shipped</Value>
+  </LocaleResource>
+  <LocaleResource Name="Admin.Orders.Shipments.CanShip.Hint">
+    <Value>Check to apply current date to shipment.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.CustomOrderNumber">
     <Value>Order #</Value>
